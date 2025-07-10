@@ -16,10 +16,11 @@ Welcome to **KBScore**, a dynamic and user-friendly web application designed to 
 
 ## 🛠️ Technologies Used
 
-- **HTML5** / **CSS3** / **JavaScript**
-- **Bootstrap** or **TailwindCSS** (if used)
-- **Football-Data.org API**
-- Optional: **React**, **Vue.js**, or **Vanilla JS** (specify what you used)
+| Tech         | Usage                                  |
+|--------------|----------------------------------------|
+| **TypeScript** | Main application logic and API handling |
+| **CSS**        | Styling and responsive design          |
+| **JavaScript** | Minor runtime behavior         |
 
 ---
 

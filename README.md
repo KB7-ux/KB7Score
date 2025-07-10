@@ -1,30 +1,35 @@
-# Sports info aggregator
+# ⚽ KBScore – Live Sports Scores Website
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Welcome to **KBScore**, a dynamic and user-friendly web application designed to deliver **live sports scores** in real-time. Built with modern web technologies and powered by the [Football-Data.org API](https://www.football-data.org/), KBScore offers instant access to ongoing matches, scores, league standings, and more.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/kiddamamo7-9620s-projects/v0-sports-info-aggregator)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/hNu9ax5wEOC)
+---
 
-## Overview
+## 🚀 Features
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+- 🌍 Live football scores from top international leagues
+- 📅 Upcoming fixtures and match schedules
+- 🏆 League tables and team stats
+- ⚡ Real-time API integration
+- 📱 Responsive and mobile-friendly design
 
-## Deployment
+---
 
-Your project is live at:
+## 🛠️ Technologies Used
 
-**[https://vercel.com/kiddamamo7-9620s-projects/v0-sports-info-aggregator](https://vercel.com/kiddamamo7-9620s-projects/v0-sports-info-aggregator)**
+- **HTML5** / **CSS3** / **JavaScript**
+- **Bootstrap** or **TailwindCSS** (if used)
+- **Football-Data.org API**
+- Optional: **React**, **Vue.js**, or **Vanilla JS** (specify what you used)
 
-## Build your app
+---
 
-Continue building your app on:
+🙌 Acknowledgements
+Football-Data.org for the free sports data API
 
-**[https://v0.dev/chat/projects/hNu9ax5wEOC](https://v0.dev/chat/projects/hNu9ax5wEOC)**
 
-## How It Works
+📬 Contact
+If you have questions or feedback, feel free to reach out:
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+Developer: Kidus Mamo
+Email: Kiddamamo7@gmail.com
+GitHub: https://github.com/KB7-ux

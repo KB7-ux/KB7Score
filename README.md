@@ -33,3 +33,5 @@ If you have questions or feedback, feel free to reach out:
 Developer: Kidus Mamo
 Email: Kiddamamo7@gmail.com
 GitHub: https://github.com/KB7-ux
+
+Thank you!
